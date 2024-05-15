@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
 ### 2. Install Dependencies
 
 ```bash
-cd nextjs-authentication-supabase
+cd AuthWSupabase
 npm install
 ```
 
